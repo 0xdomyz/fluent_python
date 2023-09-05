@@ -1,4 +1,4 @@
-collection_template
+fluent python
 ===================
 
-template for collection repos
+
